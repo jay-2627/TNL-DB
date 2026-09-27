@@ -1,0 +1,9 @@
+id,name,industry,spend,leads,qualified,converted,revenue,roas,status
+1,Client A,Real Estate,42000,214,196,18,8200,3.2,On Track
+2,Client B,Education,35000,286,241,31,6120,4.1,On Track
+3,Client C,Clinic,28000,173,149,14,7000,3.5,Watch
+4,Client D,D2C,52000,311,278,42,9450,4.7,On Track
+5,Client E,Gym,19000,128,107,9,7330,2.8,Watch
+6,Client F,Interior,31000,172,155,17,6470,3.9,On Track
+7,Client G,Coaching,0,0,0,0,0,0,New
+8,Client H,Solar,0,0,0,0,0,0,New

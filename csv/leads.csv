@@ -1,0 +1,13 @@
+id,client_id,source,stage
+1,1,Meta Ads,New
+2,1,Meta Ads,Qualified
+3,1,Referral,Converted
+4,2,Meta Ads,Contacted
+5,2,Organic,Qualified
+6,2,Meta Ads,Converted
+7,3,Meta Ads,New
+8,3,Website,Qualified
+9,4,Meta Ads,Converted
+10,4,Referral,Qualified
+11,5,Meta Ads,New
+12,6,Meta Ads,Contacted

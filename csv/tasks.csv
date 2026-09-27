@@ -1,0 +1,7 @@
+id,title,owner,priority,due_date,status
+1,Launch Client G campaign,JD,High,2026-09-28,Pending
+2,Update Client D dashboard,JD,Medium,2026-09-27,In Progress
+3,CRM cleanup,Yugesh,Medium,2026-09-29,Pending
+4,Edit Client A creatives,Sri Ram,High,2026-09-28,In Progress
+5,Client F report,Ramesh,Low,2026-09-30,Pending
+6,Weekly report automation,JD,Medium,2026-10-01,Pending

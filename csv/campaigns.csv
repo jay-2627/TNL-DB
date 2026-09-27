@@ -1,0 +1,7 @@
+id,client_id,name,spend,impressions,reach,ctr,cpc,clicks,cpl,conversions,cpa,roas
+1,1,Property Leads - Sep,22000,145000,7200,4.9,1.6,152,144.74,8,2750,3.2
+2,2,Admissions - Sep,18000,132000,6200,4.7,1.5,171,105.26,19,947.37,4.1
+3,3,Clinic Appointment,14000,98000,5400,4.2,1.4,102,137.25,7,2000,3.5
+4,4,D2C Sales,30000,210000,7200,5.0,1.43,190,157.89,25,1200,4.7
+5,5,Membership Leads,10000,74000,5100,3.9,1.35,72,138.89,5,2000,2.8
+6,6,Interior Enquiries,17000,118000,5600,4.7,1.43,108,157.41,10,1700,3.9
