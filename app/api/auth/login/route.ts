@@ -8,7 +8,8 @@ export async function POST(req: Request) {
     const ok = await login(name, password);
     if (!ok) return NextResponse.json({ error: "Invalid founder credentials." }, { status: 401 });
     return NextResponse.json({ ok: true });
-  } catch {
+  } catch (err) {
+    console.error("LOGIN ERROR:", err);
     return NextResponse.json({ error: "Login service unavailable." }, { status: 500 });
   }
 }
